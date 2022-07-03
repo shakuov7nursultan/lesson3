@@ -32,3 +32,9 @@
 | ------ | ------ |
 | Энциклопедия WIKI | wikipedia.org |
 | Яндекс | yandex.kz |
+
+Заходим в git hub, жмём create a new repository
+затем вводим в терминал: 
+* git remote add origin https://github.com/shakuov7nursultan/lesson3.git
+* git branch -M main
+* git push -u origin main
